@@ -1,0 +1,2 @@
+debian/bin/subcriptiod usr/bin
+src/subcriptiod usr/lib/subcriptio
